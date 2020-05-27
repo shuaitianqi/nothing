@@ -39,63 +39,63 @@ export default {
           tag: '高手必备',
           image: VideoImage1,
           count: '14',
-          read: '234'
+          read: '1204'
         },
         {
-          id: '1',
-          title: '日内交易',
-          tag: '高手必备',
+          id: '2',
+          title: '外汇交易介绍',
+          tag: '新手入门',
           image: VideoImage2,
-          count: '14',
-          read: '234'
+          count: '6',
+          read: '2763'
         },
         {
-          id: '1',
-          title: '日内交易',
-          tag: '高手必备',
+          id: '3',
+          title: '用价格行为来进行交易',
+          tag: '中级攻略',
           image: VideoImage3,
-          count: '14',
-          read: '234'
+          count: '5',
+          read: '2209'
         },
         {
-          id: '1',
-          title: '日内交易',
-          tag: '高手必备',
+          id: '4',
+          title: '用双布林带进行交易',
+          tag: '中级攻略',
           image: VideoImage4,
-          count: '14',
-          read: '234'
+          count: '5',
+          read: '1843'
         },
         {
-          id: '1',
-          title: '日内交易',
-          tag: '高手必备',
+          id: '5',
+          title: '斐波那契回归线',
+          tag: '新手入门',
           image: VideoImage5,
-          count: '14',
-          read: '234'
+          count: '3',
+          read: '1657'
         },
         {
-          id: '1',
-          title: '日内交易',
-          tag: '高手必备',
+          id: '6',
+          title: '高级支撑阻力和趋势线',
+          tag: '新手入门',
           image: VideoImage6,
-          count: '14',
-          read: '234'
+          count: '5',
+          read: '1917'
         },
         {
-          id: '1',
-          title: '日内交易',
-          tag: '高手必备',
+          id: '7',
+          title: '移动均线交叉和动量',
+          tag: '中级攻略',
           image: VideoImage7,
-          count: '14',
-          read: '234'
+          count: '3',
+          read: '2034'
         },
         {
-          id: '1',
-          title: '日内交易',
-          tag: '高手必备',
+          id: '8',
+          title: '外汇基本面简述',
+          tag: '新手入门',
           image: VideoImage8,
-          count: '14',
-          read: '234'
+          count: '2',
+          read: '1381'
         },
       ],
       videoListFilter: []

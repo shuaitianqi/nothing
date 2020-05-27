@@ -19,23 +19,23 @@ export default {
       recommend: [
         {
           id: '1',
-          title: '自动交易系统'
+          title: '告诉你这么做外汇交易，超过一半的胜算已到手！'
         },
         {
-          id: '1',
-          title: '自动交易系统'
+          id: '2',
+          title: '外汇平台搭建 | 搭建外汇平台哪些坑害死你'
         },
         {
-          id: '1',
-          title: '自动交易系统'
+          id: '3',
+          title: '数汇学院 | 选择值得信赖的外汇经纪商，这5个细节不可忽视！'
         },
         {
-          id: '1',
-          title: '自动交易系统'
+          id: '4',
+          title: '普及外汇知识之：一千多家外汇经纪商，应该如何选择？'
         },
         {
-          id: '1',
-          title: '自动交易系统'
+          id: '5',
+          title: '美国外汇保证金当年是怎么去杠杆的？'
         }
       ]
     }
@@ -68,6 +68,7 @@ export default {
     border-bottom: 1px solid #F0F0F0
     color: #666
     cursor: pointer
+    overflow: hidden
 
     .icon
       display: inline-block
